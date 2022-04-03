@@ -3,7 +3,7 @@ function init(){
 
   function clickAlertMe(){
     var text = document.getElementById("entryinput").value;
-    alert("XI JIA: " + text);
+    alert("JIA XI: " + text);
     document.getElementById("textoutput").innerHTML = text
   }
   var entrybtn = document.getElementById("entrybutton");
